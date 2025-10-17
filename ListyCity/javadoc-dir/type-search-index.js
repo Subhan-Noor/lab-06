@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ca.ualberta.snoor1.listycity","l":"City"},{"p":"ca.ualberta.snoor1.listycity","l":"CityList"}];updateSearchResults();
